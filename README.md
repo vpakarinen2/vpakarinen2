@@ -6,8 +6,13 @@ I focus building niche open-source apps with a love for clean code.
 - 🎯 Prioritizing clean docs and user-focused interface design
 - ⚡ Always optimizing for speed and usability
 
-**Current interests:**  
+**Current interests:** 
+
 Modern Python project architectures, and AI models for real-world apps.
+
+**Most projects:**
+
+Built from scratch for full flexibility and custom error handling.
 
 ---
 
