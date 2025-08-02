@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Ville Pakarinen
 
-<!--
-**vipaka2/vipaka2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I focus building niche open-source apps with a love for clean code.
 
-Here are some ideas to get you started:
+- 🚀 Building automation and CLI for full control and reliability
+- 🎯 Prioritizing clean docs and user-focused interface design
+- ⚡ Always optimizing for speed and usability
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current interests:**  
+Modern Python project architectures, and AI models for real-world apps.
+
+---
+
+📚 Check out my latest tools or reach out via Issues.
+
+⭐ If you find a repo useful, a star is always appreciated!
