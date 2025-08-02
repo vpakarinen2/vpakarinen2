@@ -8,7 +8,7 @@ I focus building niche open-source apps with a love for clean code.
 
 **Current interests:** 
 
-Modern Python project architectures, and AI models for real-world apps.
+Modern Python project architectures and AI models for real-world apps.
 
 **Most projects:**
 
