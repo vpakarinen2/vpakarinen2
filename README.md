@@ -10,8 +10,8 @@ I focus building niche open-source apps with a love for clean code.
 
 If you find my projects useful, please consider supporting.
 
-<a href="https://buymeacoffee.com/vpakarinen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 217px !important;" ></a>
-<a href="https://ko-fi.com/vpakarinen" target="_blank"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" alt="Ko-fi" style="height: 50px !important;width: 217px !important;" ></a>
+<a href="https://buymeacoffee.com/vpakarinen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 207px !important;" ></a>
+<a href="https://ko-fi.com/vpakarinen" target="_blank"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" alt="Ko-fi" style="height: 45px !important;width: 207px !important;" ></a>
 
 ---
 
