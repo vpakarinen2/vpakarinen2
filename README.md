@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ville Pakarinen
+# 👋 Hi, my name is Ville
 
 I focus building niche open-source apps with a love for clean code.
 
