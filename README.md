@@ -6,6 +6,8 @@ I focus building niche open-source apps and workflows with a love for clean code
 - 🎯 Prioritizing clean docs and user-focused interface design
 - ⚡ Always optimizing for speed and usability
 
+I'm currently looking for remote roles as an AI Engineer / ML Tools Developer / Backend Developer.
+
 ## Support
 
 If you find my projects useful, please consider supporting.
