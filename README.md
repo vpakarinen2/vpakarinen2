@@ -1,6 +1,6 @@
 # 👋 Hi, my name is Ville
 
-I focus building niche open-source apps with a love for clean code.
+I focus building niche open-source apps and workflows with a love for clean code.
 
 - 🚀 Building automation and CLI for full control and reliability
 - 🎯 Prioritizing clean docs and user-focused interface design
