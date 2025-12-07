@@ -2,9 +2,9 @@
 
 I focus building niche open-source apps and workflows with a love for clean code.
 
-- 🚀 Building automation and CLI for full control and reliability
-- 🎯 Prioritizing clean docs and user-focused interface design
-- ⚡ Always optimizing for speed and usability
+- 🚀 Automation and CLI for full control and reliability
+- 🎯 Clean docs and user-focused interface design
+- ⚡ Always optimized for speed and usability
 
 ## Support
 
