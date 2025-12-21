@@ -1,6 +1,6 @@
 # 👋 Hi, my name is Ville Pakarinen
 
-I focus building niche open-source apps and workflows with a love for clean code.
+I focus building a modern open-source apps and workflows with a love for clean code.
 
 - 🚀 Automation and CLI for full control and reliability
 - 🎯 Clean docs and user-focused interface design
