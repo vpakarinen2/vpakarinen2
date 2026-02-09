@@ -17,7 +17,7 @@
 ---
 
 ### ☕ Support my Work
-If you find my tools or open-source contributions valuable, consider supporting my work:
+If you find my open-source tools valuable, consider supporting my work:
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vpakarinen)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/vpakarinen)
