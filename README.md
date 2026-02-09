@@ -1,20 +1,32 @@
-# 👋 Hi, my name is Ville Pakarinen
+# Ville Pakarinen
 
-I focus building a modern open-source apps and workflows with a love for clean code.
-
-- 🚀 Automation and CLI for full control and reliability
-- 🎯 Clean docs and user-focused interface design
-- ⚡ Always optimized for speed and usability
-
-## Support
-
-If you find my projects useful, please consider supporting.
-
-<a href="https://buymeacoffee.com/vpakarinen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 207px !important;" ></a>
-<a href="https://ko-fi.com/vpakarinen" target="_blank"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" alt="Ko-fi" style="height: 45px !important;width: 207px !important;" ></a>
+**AI Engineer & Architect** *Architecting intelligence and building scalable, open-source solutions.*
 
 ---
 
-📚 Check out my latest tools or reach out via Issues.
+### 🛠️ Core Focus
+* **AI Architecture:** Designing scalable neural workflows and LLM-integrated systems.
+* **Engineering Excellence:** Crafting high-performance CLI tools and automated pipelines.
+* **Developer Experience:** Building user-focused interfaces with a clean, documented code.
 
-⭐ If you find a repo useful, a star is always appreciated!
+---
+
+### ⚡ Technical Philosophy
+> "Complexity is the enemy of reliability. I build for speed, optimize for usability, and document for clarity."
+
+---
+
+### ☕ Support my Work
+If you find my tools or open-source contributions valuable, consider supporting my work:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vpakarinen)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/vpakarinen)
+
+---
+
+### 📬 Connect
+* **Website:** [villepakarinen.com](https://villepakarinen.com)
+* **Email:** [ville@villepakarinen.com](mailto:ville@villepakarinen.com)
+* **LinkedIn:** [linkedin.com/in/ville-pakarinen-11928a27a](https://linkedin.com/in/ville-pakarinen-11928a27a)
+
+⭐ *If you find a repository useful, a star is the best way to show your support!*
