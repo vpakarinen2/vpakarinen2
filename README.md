@@ -20,7 +20,6 @@ If you find my open-source tools valuable, consider supporting my work:
 ---
 
 ### 📬 Connect
-* **Website:** [villepakarinen.com](https://villepakarinen.com)
 * **Email:** [ville@villepakarinen.com](mailto:ville@villepakarinen.com)
 * **LinkedIn:** [linkedin.com/in/ville-pakarinen-11928a27a](https://linkedin.com/in/ville-pakarinen-11928a27a)
 
