@@ -11,11 +11,6 @@
 
 ---
 
-### ⚡ Technical Philosophy
-> "Complexity is the enemy of reliability. I build for speed, optimize for usability, and document for clarity."
-
----
-
 ### ☕ Support My Work
 If you find my open-source tools valuable, consider supporting my work:
 
