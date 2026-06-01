@@ -11,7 +11,7 @@
 
 ---
 
-### 🚀 Currently working On
+### 🚀 Currently Working
 A lightweight Windows CLI utilities built with Python.
 
 * **[captube](https://github.com/vpakarinen2/captube)** 
