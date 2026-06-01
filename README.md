@@ -7,7 +7,19 @@
 ### 🛠️ Core Focus
 * **AI Architecture:** Designing scalable neural workflows and LLM-integrated systems.
 * **Engineering Excellence:** Crafting high-performance CLI tools and automated pipelines.
-* **Developer Experience:** Building user-focused interfaces with a clean, documented code.
+* **Developer Experience:** Building user-focused interfaces with clean, documented code.
+
+---
+
+### 🚀 Currently working On
+A lightweight Windows CLI utilities built with Python.
+
+* **[captube](https://github.com/vpakarinen2/captube)** 
+  * *Description:* Download videos from YouTube, TikTok, and Rumble.
+* **[convertly](https://github.com/vpakarinen2/convertly)** 
+  * *Description:* Convert images between multiple formats like WebP, PNG, and JPG/JPEG.
+* **[metaclean](https://github.com/vpakarinen2/metaclean)**
+  * *Description:* View and remove metadata from images and videos.
 
 ---
 
