@@ -12,14 +12,8 @@
 ---
 
 ### 🚀 Currently Working
-A lightweight Windows CLI utilities built with Python.
 
-* **[captube](https://github.com/vpakarinen2/captube)** 
-  * *Description:* Download videos from YouTube, TikTok, and Rumble.
-* **[convertly](https://github.com/vpakarinen2/convertly)** 
-  * *Description:* Convert images between multiple formats like PNG, and JPG/JPEG.
-* **[metaclean](https://github.com/vpakarinen2/metaclean)**
-  * *Description:* View and remove metadata from images and videos.
+projects coming soon.
 
 ---
 
