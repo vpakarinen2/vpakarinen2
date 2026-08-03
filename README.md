@@ -13,7 +13,7 @@
 
 ### 🚀 Currently Working
 
-projects coming soon.
+Coming soon.
 
 ---
 
