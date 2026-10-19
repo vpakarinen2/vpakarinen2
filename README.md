@@ -13,7 +13,7 @@
 
 ### 🚀 Currently Working
 
-Netgo https://github.com/vpakarinen2/netgo - Modern alternative to Nmap
+Netgo (https://github.com/vpakarinen2/netgo) - Modern alternative to Nmap
 
 ---
 
